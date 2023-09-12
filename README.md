@@ -1,5 +1,5 @@
 ## Hi there my name is Parker
 
-I have 5+ years in software engineering working primarily on backend technologies. I mainly work in Node.js with Typescript and Javascript.
+I have 5+ years in software engineering working primarily on backend technologies. I mainly work in Node.js with Typescript + Javascript, in the past I've used iPaaS tools like Mulesoft and Dell Boomi. 
 
-I love learning new technologies and utilizing all of my experience to solve tomorrow's problems today!
+I enjoy diving into new technologies and utilizing all of my experience to solve tomorrow's problems today!
