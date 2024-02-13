@@ -1,4 +1,4 @@
-## Hi there my name is Parker
+## Hi there, my name is Parker
 
 I have 6+ years in software engineering working primarily on backend technologies. I mainly work in Node.js with Typescript + Javascript, in the past I've used iPaaS tools like Mulesoft and Boomi. 
 
