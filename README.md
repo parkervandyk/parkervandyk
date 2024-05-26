@@ -1,5 +1,11 @@
-## Hi there, my name is Parker
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Parker</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/parkervandyk/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</div>
 
-I have 6+ years in software engineering working primarily on backend technologies. I mainly work in Node.js with Typescript + Javascript, in the past I've used iPaaS tools like Mulesoft and Boomi. 
+<hr />
 
-I enjoy diving into new technologies and utilizing all of my experience to solve tomorrow's problems today!
+I currently build integrations using Boomi and services using Express with TypeScript/JavaScript. I'm not bad with HTML, CSS and have a side project written in php https://www.sitefast.live. Working on migrating from vscode to Neovim which has been quite exciting.
+
+<hr />
