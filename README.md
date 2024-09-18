@@ -6,6 +6,6 @@
 
 <hr />
 
-I currently build integrations using Boomi and services using Express with TypeScript/JavaScript. I'm not bad with HTML, CSS and have a side project written in php https://www.sitefast.live. Working on migrating from vscode to Neovim which has been quite exciting.
+I currently build integrations using Boomi and services using Express with TypeScript/JavaScript. I'm not bad with HTML, CSS and have a side project written in php https://www.sitefast.live.
 
 <hr />
