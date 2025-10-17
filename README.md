@@ -6,6 +6,6 @@
 
 <hr />
 
-I currently build integrations using Boomi and services using Express with TypeScript/JavaScript. I'm not bad with HTML, CSS and have a side project written in php https://www.sitefast.live.
+I am currently a Solutions Engineer at Envoy supporting our largest customers. I build services using Express with TypeScript. I'm pretty good with HTML and CSS. I have a side project written in php, you can take a look at https://www.sitefast.live.
 
 <hr />
